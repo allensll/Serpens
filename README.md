@@ -24,6 +24,7 @@ A Multi-Server Framework for Efficient Secure CNN Inference.
     ```
 ### Structure
 
+* `data/` - Save datasets.
 * `examples/` - Secure and Plaintext inference.
 * `models/` - Linear layers and several CNNs.
 * `mpc/` - Nonlinear layers and Roles (User and Server).
