@@ -19,7 +19,7 @@
     ```
 ### Build
 
-1. git clone https://github.com/allensll/Serpens2.git --recurse-submodules
+1. `git clone https://github.com/allensll/Serpens2.git --recurse-submodules`
 
 2. Enter nl2pc directory: `cd nl2pc`
 
