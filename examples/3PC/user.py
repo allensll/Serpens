@@ -10,7 +10,7 @@ import mpc
 def main():
     parser = argparse.ArgumentParser(description='User')
     parser.add_argument('--dataset', type=str, default='cifar100', choices=['mnist', 'cifar10', 'cifar100', 'imagenet'])
-    parser.add_argument('--batch-size', type=int, default=1000)
+    parser.add_argument('--batch-size', type=int, default=1)
     parser.add_argument('--k', type=int, default=13)
     parser.add_argument('--iters', type=int, default=10)
     parser.add_argument('--servers', type=int, default=2)

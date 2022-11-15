@@ -8,6 +8,10 @@
 * make (4.2.1)
 * cmake (3.16.3)
 * [PyTorch](https://pytorch.org/get-started/locally/) (1.10+cpu)
+* [Scipy] (1.9.3)
+    ```
+    pip install scipy
+    ```
 * Boost::ASIO (1.71)
     ```
     sudo apt-get update
@@ -26,10 +30,10 @@
 
 ### Example
 
-1. Enter main directory: `cd ..`.
+1. Enter main directory: `cd ../..`.
 
 2. Copy `nl2pc.cpython-xxx-linux-gnu.so` into mian directory:
-    `cp nl2pc/src/nl2pc.cpython-xxx-linux-gnu.so example/`
+    `cp nl2pc/build/src/nl2pc.cpython-xxx-linux-gnu.so .`
 
 #### Run two-server setting demo
 
