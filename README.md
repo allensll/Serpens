@@ -34,11 +34,11 @@
 #### Run two-server setting demo
 
 3. Enter 2PC directory: `cd example/2PC`
-
-4.
+    Open three terminals, run `python user.py`, `python server1.py` and `python server2.py` in example directory, respectively.
 
 #### Run three-server setting demo
 
 4. Enter 3PC directory: `cd example/3PC`.
+    Open three terminals, run `python user.py`, `python server0.py`, `python server1.py` and `python server2.py` in example directory, respectively.
 
 
