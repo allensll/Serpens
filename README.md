@@ -28,7 +28,7 @@ A Multi-Server Framework for Efficient Secure CNN Inference.
 * `examples/` - Secure and Plaintext inference.
 * `models/` - Linear layers and several CNNs.
 * `mpc/` - Nonlinear layers and Roles (User and Server).
-* `nl2pc/` - Two-PC protocals used in nonlinear layers.
+* `nl2pc/` - Two-PC protocols used in nonlinear layers.
 * `pretrained/` - Save pretrained models.
 * `train_models/` - Used to train models.
 
