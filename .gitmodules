@@ -1,0 +1,6 @@
+[submodule "nl2pc/extern/pybind11"]
+	path = nl2pc/extern/pybind11
+	url = https://github.com/pybind/pybind11.git
+[submodule "nl2pc/extern/SEAL"]
+	path = nl2pc/extern/SEAL
+	url = https://github.com/microsoft/SEAL.git
