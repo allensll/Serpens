@@ -27,9 +27,18 @@
 ### Example
 
 1. Enter main directory: `cd ..`.
+
 2. Copy `nl2pc.cpython-xxx-linux-gnu.so` into mian directory:
     `cp nl2pc/src/nl2pc.cpython-xxx-linux-gnu.so example/`
-3. Enter 2PC directory: `cd example/2PC`.
+
+#### Run two-server setting demo
+
+3. Enter 2PC directory: `cd example/2PC`
+
 4.
+
+#### Run three-server setting demo
+
+4. Enter 3PC directory: `cd example/3PC`.
 
 
