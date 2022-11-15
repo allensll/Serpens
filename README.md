@@ -8,7 +8,7 @@
 * make (4.2.1)
 * cmake (3.16.3)
 * [PyTorch](https://pytorch.org/get-started/locally/) (1.10+cpu)
-* [Scipy] (1.9.3)
+* Scipy (1.9.3)
     ```
     pip install scipy
     ```
