@@ -1,4 +1,9 @@
-# Code
+# Serpens
+
+A Multi-Server Framework for Efficient Secure CNN Inference.
+
+**Note：** This is a proof-of-concept prototype developed to use in academics. The implementation is inadequate for production use. 
+
 
 ### Requirements (our tested version)
 
