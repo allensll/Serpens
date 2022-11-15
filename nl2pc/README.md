@@ -7,6 +7,7 @@
     ```
     git submodule add https://github.com/pybind/pybind11.git extern/pybind11
     ```
+    ```
     git submodule add https://github.com/microsoft/SEAL.git extern/SEAL
     ```
 
