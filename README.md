@@ -22,6 +22,15 @@ A Multi-Server Framework for Efficient Secure CNN Inference.
     sudo apt-get update
     sudo apt-get install libasio-dev
     ```
+### Structure
+
+* `examples/` - Secure and Plaintext inference.
+* `models/` - Linear layers and several CNNs.
+* `mpc/` - Nonlinear layers and Roles (User and Server).
+* `nl2pc/` - Two-PC protocals used in nonlinear layers.
+* `pretrained/` - Save pretrained models.
+* `train_models/` - Used to train models.
+
 ### Build
 
 1. `git clone https://github.com/allensll/Serpens2.git --recurse-submodules`
