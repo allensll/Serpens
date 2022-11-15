@@ -1,11 +1,11 @@
 ### build
----
 
 * **Required Boost::ASIO, [pybind11](https://github.com/pybind/pybind11) and [SEAL](https://github.com/microsoft/SEAL)**
 
 1. If necessary, download ABY, pybind11 and SEAL in `extern/`:
     ```
     git submodule add https://github.com/pybind/pybind11.git extern/pybind11
+    ```
     ```
     git submodule add https://github.com/microsoft/SEAL.git extern/SEAL
     ```
@@ -23,7 +23,6 @@
    You can find the libraries in the directories `build/src/cmpy.cpython-xxx-linux-gnu.so`.
 
 ### example
----
 
 1. Copy `nl2pc.cpython-xxx-linux-gnu.so` into `example/`.
 
