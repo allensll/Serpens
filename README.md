@@ -30,7 +30,7 @@
 
 ### Example
 
-1. Enter main directory: `cd ../..`.
+1. Enter main directory: `cd ../..`
 
 2. Copy `nl2pc.cpython-xxx-linux-gnu.so` into mian directory:
     `cp nl2pc/build/src/nl2pc.cpython-xxx-linux-gnu.so .`
