@@ -3,7 +3,9 @@
 A Multi-Server Framework for Efficient Secure CNN Inference. This is the open-source implementation of Serpens framework.
 
 Reference papers:
+
 [Efficient Secure CNN Inference: A Multi-Server Framework based on Conditional Separable and Homomorphic Encryption](https://ieeexplore.ieee.org/document/10636333) IEEE TCC 2024
+
 [Serpens: Privacy-PreservingInference through Conditional Separable of Convolutional Neural Networks](https://dl.acm.org/doi/10.1145/3511808.3557450) CIKM 2022
 
 
